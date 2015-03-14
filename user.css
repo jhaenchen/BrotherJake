@@ -1,0 +1,75 @@
+#main{
+    background-image:url("http://www.singulare.es/wp-content/uploads/2013/10/local-seo-featured-image-1.jpg");
+    height:100vh;
+    background-size:cover;
+}
+#title_container{
+font-family: "Myriad Pro", "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+    font-size: 24px;
+    position: relative;
+        top:23%;
+    left:20px;
+}
+#subtitle{
+    font-family: "Myriad Pro", "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+    font-size: 16px;
+    position: relative;
+        top:20%;
+    left:26px;
+    width:400px;
+}
+#best{
+    background-image:url("http://www.teca-sf.org/wp-content/uploads/2014/01/chalkboard.1440x900.jpg");
+    height:100vh;
+    background-position:bottom right;
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+#classes_container{
+    font-family: "Myriad Pro", "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+     text-align:center;
+    position:relative;
+    top:10%;
+    color:#FFFFFF;
+    
+}
+.carousel-demo {
+	width:20%;
+    
+}
+.carousel-demo-vertical {
+	height:400px;
+	width:135px;
+    position:relative;
+    top:50px;
+    left:15%;
+    
+}
+.carousel-demo li {
+    font-family: "Myriad Pro", "Gill Sans", "Gill Sans MT", Calibri, sans-serif;
+	background:#ccc;
+	border:1px solid #fff;
+	color:#666; 
+	float:left;
+	font-weight:bold;
+	font-size:24px;
+	height:65px;
+	list-style:none;
+	padding:0 0 10px 0;
+	margin:-20px 10px 0 0;
+	text-align:left;
+	width:275px;
+    vertical-align:center;
+    
+    
+}
+.carousel-demo-vertical li {
+	margin:0 0 10px 0;
+    border-radius:2;
+    
+}
+#class_description{
+    position:relative;
+    left: 35%;
+    top:-400px;
+}
